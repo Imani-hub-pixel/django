@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'classlist',
     'geeks',
     'myfirstapp',
     'django.contrib.admin',
